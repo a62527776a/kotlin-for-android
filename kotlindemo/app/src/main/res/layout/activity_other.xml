@@ -12,13 +12,6 @@
         android:gravity="center"
         android:orientation="vertical"
         tools:context="com.john.kotlindemo.OtherActivity">
-
-        <com.john.kotlindemo.DraweeView
-            fresco:url="@{data.photo}"
-            fresco:placeholderImage="@mipmap/ic_launcher"
-            android:layout_width="300dp"
-            android:layout_height="300dp" />
-
         <TextView
             android:text="@{data.name}"
             android:layout_width="wrap_content"

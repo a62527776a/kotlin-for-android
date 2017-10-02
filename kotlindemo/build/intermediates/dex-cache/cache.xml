@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.0_2e1cc546cc17b0a5a41eac208740190ae6751512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\kotlindemo1\kotlindemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25722ca4e567bb5150d7c1d442b29061f0ec50ec">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c5c5aaa7963b2498e5a6f4dc919d4f0c8a953a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_ef1a9c2ecc642261c3ea25bbb7f4029ceffc084a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\kotlindemo1\kotlindemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dfaeff4f304765dcad7bde47418ebe01abb1729\classes.dex" />
+    </item>
+
+</items>
