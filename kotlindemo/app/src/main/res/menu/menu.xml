@@ -4,5 +4,6 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 <item
     android:id="@+id/menu_share"
     android:title="@string/share"
+    android:icon="@mipmap/ic_more_vert_white_36dp"
     app:showAsAction="never"></item>
 </menu>

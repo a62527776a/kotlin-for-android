@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         binding.data="这是一个Kotlin和dataBinding的组合应用demo \n 并包含了自定义View  DraweeView"
         val toolBar = findViewById(R.id.toolbar) as Toolbar
         setSupportActionBar(toolbar)
-        toolBar.setNavigationIcon(R.mipmap.ic_launcher)
+        toolBar.setNavigationIcon(R.mipmap.ic_menu_white_36dp)
         //点下试试
         bt_test.setOnClickListener {
             binding.data = "哈哈哈"
@@ -69,9 +69,9 @@ class MainActivity : AppCompatActivity() {
             return this.movieLi
         }
 
-        fun setmovieLi(Movie: Object): Object {
-            this.movieLi = Movie
-        }
+//        fun setmovieLi(Movie: Object): Object {
+//            this.movieLi = Movie
+//        }
     }
 
     open fun findData() {
