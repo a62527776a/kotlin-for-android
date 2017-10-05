@@ -3,30 +3,210 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
-        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.0_2e1cc546cc17b0a5a41eac208740190ae6751512\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\kotlindemo1\kotlindemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="25722ca4e567bb5150d7c1d442b29061f0ec50ec">
+        sha1="0cf5e69322e2c5cf0395d06e9860f1abb2cc583b">
         <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c5c5aaa7963b2498e5a6f4dc919d4f0c8a953a0\classes.dex" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_ef1a9c2ecc642261c3ea25bbb7f4029ceffc084a\classes.dex" />
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\okio-1.13.0_ef1a9c2ecc642261c3ea25bbb7f4029ceffc084a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\4de615698ffaec98c9ab2bdc47cb8b6eb22398bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_6ebc82fa8bee9ff446c9eac87004901e729f3df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_d20ad89e4f3a3f110e1f4405b22756dd8a0ac210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\1153c12a58ee2f99cb45a60a340d1d99aaaceb13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_4bcf4e98dbf13c3b72da17d1d4e115316afd33c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\9db47dec26e460d96d7d6dde507454ed3a6190d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_8c4faa3aa25cc90083aa8de5325b423395b4f4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\13e0d779273d3cb3b2b9ca1f93f3500811b5328a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_2abfdf154798ff162bbfa34cd30baedb640ec3c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\3a69277d1a40be93dd0dce2b5aec5daa9d1e984e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_e97e069b57c7db5c66beb033e80680177652d032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\7d6dcf44869bf2fccafd38060c5e6d9f83a069c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_a0872200d05d43398a7186e4de7c352f60a4fc39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.2-3\8360677e3d1b9bc9716efead9a4e740c428da2ff\kotlin-stdlib-jre7-1.1.2-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8360677e3d1b9bc9716efead9a4e740c428da2ff">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.2-3_126184c000689bb86503f478e33e06051cd81d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.0\1b6c10b5120995a7542c1a31b7828fb8593c8ba\okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\okhttp-3.9.0_2e1cc546cc17b0a5a41eac208740190ae6751512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\8c0ff01833888439baed42c155e1fc01ce47556e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_bc5f54a3bc3531a1258fada2681e9e7d07aeaa30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\19be6bc168b1515ff0200992be4faba765b2b96c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_87655420a343076304b984533e976e60e1b339d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\ca2695f8713d044a222008a957d156f90c5eddc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_e2a7e17c2d18606cab58d70e638eb99ec6c56666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\116dff5d9fc2b89957e8aa4966809c3ed33d5a96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_87e2306de24dbb71155277aa028c381005fd4d36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\annotations-13.0_3ad8e5688c9de5d77fe3b6e49922aa11227264ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\18169186415e6671b69e6232d2b7562cf7fc2ec7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_bab04b189e707d1f3e4a4710971b14752f009f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\gson-2.8.2_ac48d2fba4c8a3c74b5065e922d8fd90dfc9e8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\0e3a14673d73dc05e6b87e33920c89d1ced671a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_ea119e47b78f28851ac21f42889587d7466334f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\fb0aa12f27ae75858c86b5d5c761c582f4a7e49a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_a41b015298743fb27fceb47b6da312bb91c722df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.3.2\64d8dd1d16035a16928e74269b7b66af9a229f02\baseLibrary-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64d8dd1d16035a16928e74269b7b66af9a229f02">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\baseLibrary-2.3.2_07be46a25ab84511cb6c42037a85dba008531604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\d840bce7523e31fccce5a4e8845430e122b68a75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_911a8f6329dd111249450e08c4321350de431309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_bc9fd31e42c52a37c0c9e0b908c3d29ddcc37f73.jar" />
     </item>
     <item
         is-multidex="true"
@@ -36,6 +216,78 @@
         revision="25.0.3"
         sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
         <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dfaeff4f304765dcad7bde47418ebe01abb1729\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.2-3\552a40eb47669b78f0f194d526cb21b3aa1f8319\kotlin-stdlib-1.1.2-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="552a40eb47669b78f0f194d526cb21b3aa1f8319">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.2-3_7f58afe2833906398743f59758156b3ecf0fb7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\c61d451e80efd3164bfbfd7bbb546077740488bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_311cabd4d6b6e129244119ff633086f2e2d6f71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\5bd9bfa5c43d2acdc69ead849150db0d8661daea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_433fc2cb778d14bc8456a495efedfb68abef0dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_25d4d0be9dacf6711c8066ef9f1b0ebd9eda595d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\d962e0c649d9eeb1fd5e934faf37d9d0c846eba3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_ebfc5577c52347ba70d2660e87e0137af28d1db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\21090b852ec9fbc063d3872d1c2c084708597ccd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_d6667c9afa0def1144d0265ac99db28c5886fe02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\886fac5c4d94074ca2dbbda013e6dd0cf98838e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_4b6e5c89b8145028a0d95a956d1965c63d052c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Qstrategy\.android\build-cache\a0ee34a9cccb8ea9347d8e2d340dd7782518d6ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_fc5753cbbe894acddeffdf4848bba1884cee0284.jar" />
     </item>
 
 </items>
