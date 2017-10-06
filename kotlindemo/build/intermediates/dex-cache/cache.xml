@@ -56,6 +56,15 @@
         <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\pre-dexed\debug\classes_8c4faa3aa25cc90083aa8de5325b423395b4f4bf.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\Qstrategy\.android\build-cache\fafc4f695459ba7a10059d05f09d683f4f6a2b99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36ed3e8bc7b5d0c55e9eb8ea77f508715a925db6">
+        <dex dex="D:\kotlindemo1\kotlindemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec1049348e69b80551ef66687d5b9fc17fd10049\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Qstrategy\.android\build-cache\13e0d779273d3cb3b2b9ca1f93f3500811b5328a\output\jars\classes.jar"
         jumboMode="false"

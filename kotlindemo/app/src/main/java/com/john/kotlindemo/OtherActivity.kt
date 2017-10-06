@@ -3,18 +3,24 @@ package com.john.kotlindemo
 import android.databinding.DataBindingUtil
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.widget.Toolbar
 import com.john.kotlindemo.R
 import com.john.kotlindemo.databinding.ActivityOtherBinding
 
 class OtherActivity : AppCompatActivity() {
 
+    lateinit var binding : ActivityOtherBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val binding : ActivityOtherBinding =DataBindingUtil.setContentView(this, R.layout.activity_other)
+        var binding : ActivityOtherBinding = DataBindingUtil.setContentView(this, R.layout.activity_other)
 
         val user:User= User()
-        user.name="这是第二个activity"
-        user.photo="http://wx.zshisong.com:8085/imgServer/upload/pic/02f3b3322a844014923453e95806f8a2.jpg"
-        binding.data=user
+        user.phone = ""
+        user.passwd = ""
+        binding.data = user
+        val toolBar = findViewById(R.id.toolbar) as Toolbar
+        setSupportActionBar(toolBar)
+        toolBar.setNavigationIcon(R.mipmap.ic_menu_white_36dp)
     }
 }

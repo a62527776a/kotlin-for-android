@@ -6,7 +6,7 @@ import com.facebook.drawee.backends.pipeline.Fresco
 /**
  * Created by guqh on 2017/6/8.
  */
-class MyApp :Application(){
+open class MyApp :Application(){
 
     override fun onCreate() {
         super.onCreate()
